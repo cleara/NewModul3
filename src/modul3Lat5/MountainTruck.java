@@ -6,6 +6,7 @@ public class MountainTruck {
     public int seatHeight;
     private String gear;
     private String speed;
+    
     //the Mountaintruck subclass has one constructor
     public MountainTruck (int startHeight, int startCadence, int startSpeed, int startGear){
         seatHeight = startHeight;

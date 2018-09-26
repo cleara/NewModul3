@@ -20,7 +20,7 @@ public class Truck {
     gear = newValue;
     }
     public void applybrake (int decrement){
-        speed = decrement;
+    speed = decrement;
     }
     public void speedUp(int increment){
     speed = increment;
